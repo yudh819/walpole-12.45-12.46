@@ -16,3 +16,6 @@ c. van and SUV not significantly different (see the MPG average for van and SUV)
 a. profit = 30.18 + 0.005429(income)-235.9(gender)-49.53(fam member)
 it's more profit for company to pick female customer since gender coef was big negative for profit
 b. income doesn't matter since it have very small coef
+
+hope this can be helpful
+keep pushing
